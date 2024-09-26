@@ -1,4 +1,6 @@
 # EnergyTrading Smart Contract
+id: 0x34432f10355ab1a543d629b305206446f77a318df70a1667715b347d8d3bd7a7
+pass: ![image](https://github.com/user-attachments/assets/ff8f6ef0-8268-4316-aee7-0d9694105f09)
 
 ## Vision
 
